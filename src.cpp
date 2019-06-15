@@ -140,6 +140,6 @@ int main(){
   obj.results();
 
 
-
-  return 0;  
+  std::cout << "\nby Landon Brown";
+  return 0;
 }
