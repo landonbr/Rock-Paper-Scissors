@@ -1,6 +1,6 @@
 /* this game was re-created to display better ways of implementation 
-than just a standard do-while loop.    */                             
-/* 
+than just a standard do-while loop.     
+                            
     * a class was created with public data types and initialized in the constructor 
     * functions were used for the computers choice, users choice, winner, and results 
     * pointers were used to pass refrence for the counter in determining how many times 
