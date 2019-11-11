@@ -131,7 +131,7 @@ int main(){
     obj.computer();
     obj.winner(&userWins, &compWins, &numTies);
     
-    std::cout << "Enter y to play again or anything else to win: ";
+    std::cout << "Enter y to play again or anything else to quit: ";
     std::cin >> char1;
     std::cout << "\n";
 
