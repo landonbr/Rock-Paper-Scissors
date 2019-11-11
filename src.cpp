@@ -1,4 +1,4 @@
-/* this game was re-created to display better ways of implementation 
+/* This game was re-created to display better ways of implementation 
 than just a standard do-while loop.     
                             
     * a class was created with public data types and initialized in the constructor 
@@ -138,7 +138,6 @@ int main(){
   }
 
   obj.results();
-
 
   std::cout << "\nby Landon Brown";
   return 0;
